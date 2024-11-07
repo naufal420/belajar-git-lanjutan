@@ -9,3 +9,5 @@ console.log(multiplyNumber(20,5));
 
 const divide = (a,b) => a / b;
 console.log(subtract(25,5));
+
+alert('Hello World');
